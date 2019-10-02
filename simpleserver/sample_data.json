@@ -1,0 +1,1152 @@
+{
+	"properties": {
+		"2": {
+			"values": [{
+				"value": "167773048",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$TBL_MA$",
+				"value_key": 1,
+				"key": 2,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"3": {
+			"values": [{
+				"value": "TechTest",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "*Product Name",
+				"value_key": 1,
+				"key": 3,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"4": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "AppName",
+				"value_key": 1,
+				"key": 4,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"5": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "BG_Colour",
+				"value_key": 1,
+				"key": 5,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"6": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "FontColour",
+				"value_key": 1,
+				"key": 6,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"7": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "AppBrochures",
+				"value_key": 1,
+				"key": 7,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"8": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "*General Specification",
+				"value_key": 1,
+				"key": 8,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"9": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/range.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Specification",
+				"value_key": 1,
+				"key": 9,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"10": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Maintenance",
+				"value_key": 1,
+				"key": 10,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"11": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$Price$",
+				"value_key": 1,
+				"key": 11,
+				"data_type": "F",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"12": {
+			"values": [{
+				"value": "List Price",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$Price Caption$",
+				"value_key": 1,
+				"key": 12,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"13": {
+			"values": [{
+				"value": "Writer - xris",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "Graphics - ",
+				"value_key": 2,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Writer\/Graphics",
+				"value_key": -1,
+				"key": 13,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"14": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Primary Tag",
+				"value_key": 1,
+				"key": 14,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"15": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Range Description",
+				"value_key": 1,
+				"key": 15,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": true,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"16": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "App Specification",
+				"value_key": 1,
+				"key": 16,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"17": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$TBL_BROWSE_PRIORITY$",
+				"value_key": -1,
+				"key": 17,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"18": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$TBL_BROWSE_PRIORITY_MYSPEC$",
+				"value_key": -1,
+				"key": 18,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"19": {
+			"values": [{
+				"value": "23",
+				"value_key": 3,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$TBL_PATH$",
+				"value_key": -1,
+				"key": 19,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"20": {
+			"values": [{
+				"value": "23",
+				"value_key": 2,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$TBL_APP_PATH$",
+				"value_key": -1,
+				"key": 20,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"21": {
+			"values": [{
+				"value": "23",
+				"value_key": 2,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$TBL_FILTER_PATH$",
+				"value_key": -1,
+				"key": 21,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		},
+		"23": {
+			"values": [{
+				"value": "A0001",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "T0001",
+				"value_key": 2,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "C0001",
+				"value_key": 3,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "C0002",
+				"value_key": 4,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "T0002",
+				"value_key": 5,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "R0001",
+				"value_key": 6,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "O0001",
+				"value_key": 7,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "code",
+				"value_key": 7,
+				"key": 23,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": true,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": [0]
+			}
+		},
+		"24": {
+			"values": [{
+				"value": "Armchair",
+				"value_key": 2,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/armchair.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "Table",
+				"value_key": 3,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/table.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "Couch",
+				"value_key": 4,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/couch.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "Coat Rack",
+				"value_key": 5,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/coatrack.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "TV Stand",
+				"value_key": 6,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/tvstand.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "Recliner Chair",
+				"value_key": 7,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/recliner.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "Ottoman",
+				"value_key": 8,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "qpl:\/\/ndc\/techtext\/ottoman.jpg",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Description_code",
+				"value_key": 2,
+				"key": 24,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": [0]
+			}
+		},
+		"25": {
+			"values": [{
+				"value": "",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Quantity_code",
+				"value_key": 1,
+				"key": 25,
+				"data_type": "n",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": [0]
+			}
+		},
+		"26": {
+			"values": [{
+				"value": "fetchPrice(\"pricelist\",[code])",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Price_code",
+				"value_key": 1,
+				"key": 26,
+				"data_type": "F",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": [0]
+			}
+		},
+		"27": {
+			"values": [{
+				"value": "Ea",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "UOM_code",
+				"value_key": 1,
+				"key": 27,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": [0]
+			}
+		},
+		"28": {
+			"values": [{
+				"value": "00000001",
+				"value_key": 2,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "00000002",
+				"value_key": 3,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "00000003",
+				"value_key": 4,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "00000004",
+				"value_key": 5,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "00000005",
+				"value_key": 6,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "00000006",
+				"value_key": 7,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}, {
+				"value": "00000007",
+				"value_key": 8,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "Barcode_code",
+				"value_key": -1,
+				"key": 28,
+				"data_type": "B",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": false,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": [0]
+			}
+		},
+		"29": {
+			"values": [{
+				"value": "1",
+				"value_key": 1,
+				"tablet_enabled": true,
+				"attachment": {
+					"path": "",
+					"name": "",
+					"sub_attachments": []
+				}
+			}],
+			"property": {
+				"name": "$revised_version$",
+				"value_key": 1,
+				"key": 29,
+				"data_type": "T",
+				"uom": "",
+				"is_affected_by_scripting": false,
+				"is_browse_graphic": false,
+				"is_stl_property": false,
+				"is_system_hidden": true,
+				"is_wizard_skipped": false,
+				"is_graphic_skipped": false,
+				"is_attribute": false,
+				"is_filter_skipped": false,
+				"is_sku": false,
+				"is_included_in_qty_based_install_calc": false,
+				"user_prompt": null,
+				"filter_value_key": -1,
+				"note": "",
+				"related_subsets": []
+			}
+		}
+	},
+	"permutations": [
+		[{
+			"23": 1,
+			"24": 2,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 2
+		}, {
+			"23": 2,
+			"24": 3,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 3
+		}, {
+			"23": 3,
+			"24": 4,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 4
+		}, {
+			"23": 4,
+			"24": 5,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 5
+		}, {
+			"23": 5,
+			"24": 6,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 6
+		}, {
+			"23": 6,
+			"24": 7,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 7
+		}, {
+			"23": 7,
+			"24": 8,
+			"25": 1,
+			"26": 1,
+			"27": 1,
+			"28": 8
+		}]
+	],
+	"name": "TechTest",
+	"id32": "1593847052",
+	"pricing_tables": {
+		"pricelist": [{
+			"code": "A0001",
+			"price": 99.989999999999995,
+			"description": ""
+		}, {
+			"code": "T0001",
+			"price": 4341,
+			"description": ""
+		}, {
+			"code": "C0001",
+			"price": 16432,
+			"description": ""
+		}, {
+			"code": "C0002",
+			"price": 331.5,
+			"description": ""
+		}, {
+			"code": "T0002",
+			"price": 1999,
+			"description": ""
+		}, {
+			"code": "R0001",
+			"price": 399,
+			"description": ""
+		}, {
+			"code": "O0001",
+			"price": 87.5,
+			"description": ""
+		}]
+	},
+	"id64": "40248552716"
+}
